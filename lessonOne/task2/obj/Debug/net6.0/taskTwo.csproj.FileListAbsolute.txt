@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\bin\Debug\net6.0\taskTwo.exe
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\bin\Debug\net6.0\taskTwo.deps.json
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\bin\Debug\net6.0\taskTwo.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\bin\Debug\net6.0\taskTwo.dll
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\bin\Debug\net6.0\taskTwo.pdb
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.dll
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\refint\taskTwo.dll
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.pdb
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\taskTwo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\учу C#\lessonOne\taskTwo\obj\Debug\net6.0\ref\taskTwo.dll
