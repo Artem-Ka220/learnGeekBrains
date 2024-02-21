@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\taskOne\\учу C#.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\task1\\учу C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\taskOne\\учу C#.csproj": {
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\task1\\учу C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\taskOne\\учу C#.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\task1\\учу C#.csproj",
         "projectName": "учу C#",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\taskOne\\учу C#.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\task1\\учу C#.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\taskOne\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\учу C#\\lessonOne\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
